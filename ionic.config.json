@@ -1,0 +1,8 @@
+{
+  "name": "ionic-4-inappbrowser-example",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "858fe66f"
+}
